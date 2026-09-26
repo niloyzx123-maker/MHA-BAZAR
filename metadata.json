@@ -1,0 +1,6 @@
+{
+  "name": "ArenaZone Esports",
+  "description": "Esports Tournament & Diamond Top-Up app with Free Fire, BGMI matches, bKash & Nagad wallet, and instant in-game store",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
